@@ -1,6 +1,11 @@
 # cbioportal-frontend
 This repo contains the frontend code for cBioPortal which uses React, MobX and TypeScript. Read more about the architecture of cBioPortal [here](https://docs.cbioportal.org/2.1-deployment/architecture-overview).
 
+# Frontend
+This repository contains the frontend code for cBioPortal, built using React, MobX, and TypeScript.
+Formatting Code with PrettierJS
+When you make a git commit, PrettierJS automatically runs in write mode on all the files you changed, ensuring proper formatting before passing them through to the commit. This is done via a "pre-commit git hook," so no manual action is required.
+
 ## Branch Information
 | | main branch | upcoming release branch | later release candidate branch |
 | --- | --- | --- | --- |
